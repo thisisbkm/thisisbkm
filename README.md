@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thisisbkm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisisbkm&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbkm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&language_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbkm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thisisbkm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
